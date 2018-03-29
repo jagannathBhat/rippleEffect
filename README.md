@@ -41,7 +41,7 @@ Add the class `jbRippleEffect` to the HTML elements you want to apply the ripple
 
 ## Demo
 
-[Click Here](https://rawgit.com/jagannathBhat/jbRippleEffect/master/demo/index.html)
+[Click Here](https://rawgit.com/jagannathBhat/rippleEffect/master/demo/index.html)
 
 Code for the demo can be found in the demo directory in the root directory of the project.
 
