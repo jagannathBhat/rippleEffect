@@ -7,7 +7,7 @@ Creates a ripple animation on applied HTML elements on click.
 ## License
 
 
-This project is licensed under the terms of the GNU GPLv3 license. A copy of the lisence will be found in the root directory of the project as "LICENSE.txt".
+This project is licensed under the terms of the MIT license. A copy of the lisence will be found in the root directory of the project as "LICENSE".
 
 
 ## How to
@@ -19,22 +19,22 @@ This project is licensed under the terms of the GNU GPLv3 license. A copy of the
 #### Hosted
 
 
-Then include the following line in your HTML code.
+Include the following line towards the end of the body tag.
 
 
 ```HTML
-<script defer src="https://rawgit.com/jagannathBhat/rippleEffect/master/rippleEffect.min.js"></script>
+<script src="https://jagannathbhat.github.io/rippleEffect/rippleEffect.min.js"></script>
 ````
 
 
 #### Download
 
 
-Download the javascript file [here](https://rawgit.com/jagannathBhat/rippleEffect/master/rippleEffect.min.js). Then include the following line in your HTML code.
+Download the javascript file [here](https://github.com/jagannathBhat/rippleEffect/releases/download/v1.0/rippleEffect.min.js). Then include the following line towards the end of the body tag.
 
 
 ```HTML
-<script defer src="rippleEffect.min.js"></script>
+<script src="rippleEffect.min.js"></script>
 ````
 
 
@@ -55,9 +55,9 @@ Add the class `jbRippleEffect` to the HTML elements you want to apply the ripple
 ## Demo
 
 
-[Click Here](https://rawgit.com/jagannathBhat/rippleEffect/master/demo/index.html)
+[Click Here](https://jagannathbhat.github.io/rippleEffect/)
 
-Code for the demo can be found in the demo directory in the root directory of the project.
+Code for the demo can be found in the demo directory in the docs directory.
 
 
 ## Support
