@@ -1,0 +1,58 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto:300,400';
+
+html, body {
+	color: #424242;
+	cursor: default;
+	font-family: "Roboto", sans-serif;
+	font-size: 17px;
+	height: 100%;
+	margin: 0px;
+	width: 100%;
+}
+
+a {
+	color: inherit;
+}
+
+button {
+	background-color: #424242;
+	border: 0px;
+	color: #FAFAFA;
+	cursor: pointer;
+	font-size: 0.9em;
+	margin-top: 24px;
+	padding: 12px 24px;
+}
+
+button:focus {
+	outline: none;
+}
+
+h1 {
+	font-size: 3.6em;
+	font-weight: 300;
+	margin: 0px;
+	padding: 12px 0px 12px 0px;
+}
+
+p {
+	font-size: 1.2em;
+	margin: 0px;
+	padding: 12px 0px;
+}
+
+.centerizer {
+	background-color: #FAFAFA;
+	color: #424242;
+	display: table;
+	height: 100%;
+	width: 100%;
+}
+
+.centerizer-content {
+	display: table-cell;
+	height: 100%;
+	text-align: center;
+	vertical-align: middle;
+	width: 100%;
+}
